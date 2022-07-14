@@ -1,0 +1,16 @@
+2022-07-14 10:44:58 AM [Thread: main][ Class:logger_4j >> Method: logger_4j.main(logger_4j.java:8) ]
+INFO:This is Info Log
+2022-07-14 10:44:58 AM [Thread: main][ Class:logger_4j >> Method: logger_4j.main(logger_4j.java:9) ]
+DEBUG:This is Debug Log
+2022-07-14 10:44:58 AM [Thread: main][ Class:logger_4j >> Method: logger_4j.main(logger_4j.java:10) ]
+WARN:This is Warn Log
+2022-07-14 10:44:58 AM [Thread: main][ Class:logger_4j >> Method: logger_4j.main(logger_4j.java:11) ]
+ERROR:THis is Error Log
+2022-07-14 11:51:09 AM [Thread: main][ Class:logger_4j >> Method: logger_4j.main(logger_4j.java:8) ]
+INFO:This is Info Log
+2022-07-14 11:51:09 AM [Thread: main][ Class:logger_4j >> Method: logger_4j.main(logger_4j.java:9) ]
+DEBUG:This is Debug Log
+2022-07-14 11:51:09 AM [Thread: main][ Class:logger_4j >> Method: logger_4j.main(logger_4j.java:10) ]
+WARN:This is Warn Log
+2022-07-14 11:51:09 AM [Thread: main][ Class:logger_4j >> Method: logger_4j.main(logger_4j.java:11) ]
+ERROR:THis is Error Log
